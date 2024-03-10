@@ -31,17 +31,17 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -369,6 +369,7 @@
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -392,7 +393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eykd/owyl</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python behavior tree for implementing fast and flexible AI.</div>
@@ -445,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToyotaResearchInstitute/task_behavior_engine</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A behavior tree based task engine written in Python</div>
@@ -498,7 +499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zakarumych/egui-snarl</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Customizable egui node-graph library</div>
@@ -551,7 +552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TerensTare/bhv.rs</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Behavior trees implemented in Rust</div>
@@ -812,7 +813,7 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.1033538672142509 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.1882272416153175 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -911,7 +912,7 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                     <div class="title">
                                         <span class="prefix">Super</span>
                                         developer
-                                        <span class="gh">ranked 438k out of 131m users</span>
+                                        <span class="gh">ranked 438k out of 132m users</span>
                                         <div class="value-wrapper">
                                             <div class="value">63</div>
                                         </div>
@@ -1118,7 +1119,7 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                     <div class="title">
                                         <span class="prefix"></span>
                                         Influencer
-                                        <span class="gh">ranked 133k out of 131m users</span>
+                                        <span class="gh">ranked 133k out of 132m users</span>
                                         <div class="value-wrapper">
                                             <div class="value">82</div>
                                         </div>
@@ -1210,7 +1211,7 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                         </defs>
                                         <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                             <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.68468468468468 155"/>
+                                            <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.83983983983983 155"/>
                                         </svg>
                                         <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                             <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1233,12 +1234,12 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                     <div class="title">
                                         <span class="prefix"></span>
                                         Maintainer
-                                        <span class="gh">ranked 144k out of 135m repositories</span>
+                                        <span class="gh">ranked 144k out of 143m repositories</span>
                                         <div class="value-wrapper">
-                                            <div class="value">289</div>
+                                            <div class="value">290</div>
                                         </div>
                                     </div>
-                                    <div class="text">Maintaining a repository with 289 stars</div>
+                                    <div class="text">Maintaining a repository with 290 stars</div>
                                 </div>
                             </div>
                             <div class="achievement c largeable-width-half">
@@ -1326,7 +1327,7 @@ However, trying to serialize the root node leads to https://github.com/Nadrieril
                                     <div class="title">
                                         <span class="prefix"></span>
                                         Inspirer
-                                        <span class="gh">ranked 592k out of 135m repositories</span>
+                                        <span class="gh">ranked 592k out of 143m repositories</span>
                                         <div class="value-wrapper">
                                             <div class="value">20</div>
                                         </div>
