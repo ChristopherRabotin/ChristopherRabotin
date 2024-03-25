@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1619" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1735" class="large">
     <defs>
         <style/>
     </defs>
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -389,6 +389,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(180, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -411,7 +414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chanhx/crabviz</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦀 A tool to generate interactive call graphs for multiple languages</div>
@@ -464,7 +467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ermongroup/cs228-notes</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Course notes for CS228: Probabilistic Graphical Models.</div>
@@ -517,7 +520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eykd/owyl</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python behavior tree for implementing fast and flexible AI.</div>
@@ -570,7 +573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ToyotaResearchInstitute/task_behavior_engine</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A behavior tree based task engine written in Python</div>
@@ -634,55 +637,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">nyx-space/nyx</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">86-use-spice-files-via-anise-for-importexport-and-computations</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab7e668</div>
-                                        <div class="message">Maybe almost done with Dynamics changes</div>
+                                        <div class="sha">#260d9cf</div>
+                                        <div class="message">Update raphson finite diff module</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nyx-space/anise</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">191-bis</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9df3b95</div>
-                                        <div class="message">Change RIC computation to lit standard</div>
+                                        <div class="sha">#8dc088d</div>
+                                        <div class="message">Spacecraft now uses builder pattern + fix generator build errors</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">nyx-space/anise</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">191-bis</span></div>
                                     <div class="commit">
-                                        <div class="sha">#badcaad</div>
-                                        <div class="message">Merge branch 'master' into 191-bis</div>
+                                        <div class="sha">#ce7b238</div>
+                                        <div class="message">Add STM to orbital dynamics EOM but I think this will be made obsolete soon</div>
                                     </div>
                                 </div>
                             </section>
@@ -694,30 +665,34 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">nyx-space/anise</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d85cb8</div>
-                                        <div class="message">Merge pull request #214 from nyx-space/dependabot/cargo/reqwest-0.12.0
+                                        <div class="sha">#3eb5cc5</div>
+                                        <div class="message">Merge pull request #213 from nyx-space/dependabot/cargo/rfd-0.14.1
 
-Update reqwest requirement from 0.11.23 to 0.12.0</div>
+Update rfd requirement from 0.13.0 to 0.14.1</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bcf29fe</div>
-                                        <div class="message">Update reqwest requirement from 0.11.23 to 0.12.0
+                                        <div class="sha">#805b17e</div>
+                                        <div class="message">GUI workflow now uses latest stable rust</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82f4bfa</div>
+                                        <div class="message">Update rfd requirement from 0.13.0 to 0.14.1
 
-Updates the requirements on [reqwest](https://github.com/seanmonstar/reqwest) to permit the latest version.
-- [Release notes](https://github.com/seanmonstar/reqwest/releases)
-- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.11.23...v0.12.0)
+Updates the requirements on [rfd](https://github.com/PolyMeilex/rfd) to permit the latest version.
+- [Release notes](https://github.com/PolyMeilex/rfd/releases)
+- [Changelog](https://github.com/PolyMeilex/rfd/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/PolyMeilex/rfd/compare/0.13.0...0.14.1)
 
 ---
 updated-dependencies:
-- dependency-name: reqwest
+- dependency-name: rfd
   dependency-type: direct:production
 ...
 
@@ -730,11 +705,80 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">chanhx/crabviz</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">nyx-space/anise</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bf26e15</div>
+                                        <div class="message">Merge pull request #212 from nyx-space/dependabot/cargo/parquet-51.0.0
+
+Update parquet requirement from 50.0.0 to 51.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e57b55</div>
+                                        <div class="message">Update arrow in Cargo.toml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b6d243</div>
+                                        <div class="message">Update parquet requirement from 50.0.0 to 51.0.0
+
+Updates the requirements on [parquet](https://github.com/apache/arrow-rs) to permit the latest version.
+- [Changelog](https://github.com/apache/arrow-rs/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/apache/arrow-rs/commits)
+
+---
+updated-dependencies:
+- dependency-name: parquet
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nyx-space/anise</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/cargo/rfd-0.14.1</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#805b17e</div>
+                                        <div class="message">GUI workflow now uses latest stable rust</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nyx-space/anise</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dependabot/cargo/parquet-51.0.0</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4e57b55</div>
+                                        <div class="message">Update arrow in Cargo.toml</div>
                                     </div>
                                 </div>
                             </section>
@@ -838,7 +882,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.37645448323069 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.4613278576317565 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1200,7 +1244,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.07035175879397 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.628140703517595 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1220,10 +1264,10 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     <span class="prefix"></span>
                                     Chatter
                                     <div class="value-wrapper">
-                                        <div class="value">64</div>
+                                        <div class="value">66</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 64 times</div>
+                                <div class="text">Participated in discussions 66 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1259,7 +1303,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 143k out of 90.3m repositories</span>
+                                    <span class="gh">ranked 143k out of 92.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">294</div>
                                     </div>
@@ -1352,7 +1396,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 594k out of 90.3m repositories</span>
+                                    <span class="gh">ranked 594k out of 92.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -1519,7 +1563,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">ab7e6689</span>
-                            <span class="code">src/md/opti/minimize_lm.rs</span>
+                            <span class="code">tests/propagation/stopcond.rs</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1530,7 +1574,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -115,7 +115,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    thrust_lvl: 1.0,<br /></span><span class="token prefix unchanged">·</span><span class="token line">    alpha_inplane_radians: CommonPolynomial::Quadratic(0.0, 0.0, 0.0),<br /></span><span class="token prefix unchanged">·</span><span class="token line">    delta_outofplane_radians: CommonPolynomial::Quadratic(0.0, 0.0, 0.0),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    frame: Frame::RCN,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    frame: LocalFrame::RCN,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">};<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">let mut finite_burn_target = false;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -305,7 +305,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    epoch + 15.minutes(),<br /></span><span class="token prefix unchanged">·</span><span class="token line">    1.0,<br /></span><span class="token prefix unchanged">·</span><span class="token line">    Vector3::x(),<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    Frame::VNC,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    LocalFrame::VNC,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">)]);<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">let orbital_dyn = OrbitalDynamics::two_body();</span></span></code>
                         </div>
                     </section>
                 </div>
