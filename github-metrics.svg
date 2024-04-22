@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1942" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1732" class="large">
     <defs>
         <style/>
     </defs>
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -421,6 +421,9 @@
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(240, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -443,7 +446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>plotters-rs/plotters-gtk-demo</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minimal example for GTK + Plotters</div>
@@ -490,7 +493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-space-collective/cesiumpy</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight Python wrapper of Cesium.js for 3D geospatial visualization.</div>
@@ -543,7 +546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dcajacob/tle-tailor</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TLE Tailor is a set of pure-python tools to generate Two Line Element Sets (TLEs) for Earth-orbiting satellites.</div>
@@ -617,7 +620,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        554
+                                        555
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -653,6 +656,68 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#294 Testing hifitime 4.0.0-dev</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ChristopherRabotin in <span class="repo">nyx-space/nyx</span></div>
+                                    <div class="comment">
+                                        Good to know that it worked as expected, thanks
+On Sun, Apr 21, 2024, 02:14 gwbres @.***&gt; wrote:
+                                        <i>will try to give this a try using our PPP solver
+It works great, same results as before in GPST and GST.
+I'm getting started with BDT as well now, and V4 will enable QZSST too
+—
+Reply to this email directly, view it on GitHub
+, or
+unsubscribe
+.
+You are receiving this because you authored the thread.Message ID:
+@.***&gt;</i>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">nyx-space/hifitime</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">4.0.0-dev-gh-237</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#20e2186</div>
+                                        <div class="message">Add `subdivision` to Duration and gregorian_epoch_offset which is the prime offset minus whatever seconds exist in the prime offset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02296e7</div>
+                                        <div class="message">Fix documentation for test_days_et_j2000</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57c979f</div>
+                                        <div class="message">Ensure that durations are normalized before adding or subtracting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09428c5</div>
+                                        <div class="message">Replace ref_hour and ref_year by the prime epoch difference</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -703,175 +768,6 @@
                                     <div class="commit">
                                         <div class="sha">#30cb383</div>
                                         <div class="message">Testing hifitime 4.0.0-dev</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1806 commits in
-                                        <span class="repo">nyx-space/nyx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dependencies-dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2c90fdc</div>
-                                        <div class="message">Add find_minmax
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#977ac43</div>
-                                        <div class="message">Woop true anomaly search works
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5215ede</div>
-                                        <div class="message">Will rewrite the Brent solver
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ed101d</div>
-                                        <div class="message">Allow iterating through trajectories
-
-Remove axb/exb from Frame;
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cde322d</div>
-                                        <div class="message">Update license in Cargo.toml
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#265d52f</div>
-                                        <div class="message">Change license to AGPLv3.0
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#226307f</div>
-                                        <div class="message">Add event finding to trajectory
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#577cce6</div>
-                                        <div class="message">Hacked the interpolated trajectory
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e79e001</div>
-                                        <div class="message">(m) clean up OD tests
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b209390</div>
-                                        <div class="message">Fixed the t' computation in interpolation
-
-Still no clue what happens in spacecraft interp
-Seems to work with that orbit without spaceraft
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9ee209</div>
-                                        <div class="message">Fixed bug in last window of trajectory
-
-Found bug in first window for spacecraft interp
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ba563a</div>
-                                        <div class="message">First working version of the trajectory
-
-There is a bug when querying the very last state of the trajectory.
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6312104</div>
-                                        <div class="message">Monte Carlo analyzes at 200x the speed of GMAT
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a85142</div>
-                                        <div class="message">Simpler dynamics initialization
-
-Also led me to find a bug in the robustness tests
-by removing the need to mutuable dynamics.
-
-Closes #155
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcea9eb</div>
-                                        <div class="message">Cosm is now passed around as an Arc
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0be17f</div>
-                                        <div class="message">Moved LT and aberration to #96
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d835f82</div>
-                                        <div class="message">Reverted precision increase in Cosm
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f17b46a</div>
-                                        <div class="message">Woop! Fixed all of the robustness tests
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#666d59d</div>
-                                        <div class="message">Lots of time computation fixes
-
-+ _Much_ better multibody dynamics precision.
-+ Fixed the two body robust OD test, _halved_ errors
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5807913</div>
-                                        <div class="message">OD test fail, very much struggling to understand
-
-Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">dependencies-dev</span>
-                                        in
-                                        <span class="repo">nyx-space/nyx</span>
                                     </div>
                                 </div>
                             </section>
@@ -975,7 +871,7 @@ Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2067077344284467 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2915811088295683 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1074,7 +970,7 @@ Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 447k out of 135m users</span>
+                                    <span class="gh">ranked 448k out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
@@ -1649,7 +1545,7 @@ Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Monte Carlo analyzes at 200x the speed of GMAT
+                            Cosm is now passed around as an Arc
 
 Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;
                         </div>
@@ -1657,8 +1553,8 @@ Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">63121043</span>
-                            <span class="code">tests/events.rs</span>
+                            <span class="code">bcea9ebe</span>
+                            <span class="code">src/dynamics/thrustctrl/ruggiero.rs</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1669,7 +1565,7 @@ Signed-off-by: Christopher Rabotin &lt;christopher.rabotin@gmail.com&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -29,7 +29,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">let dynamics = OrbitalDynamics::two_body();<br /></span><span class="token prefix unchanged">·</span><span class="token line">let setup = Propagator::rk89(<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    &amp;dynamics,<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    dynamics,<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    PropOpts::with_adaptive_step_s(1.0, 60.0, 1e-9, RSSStepPV {}),<br /></span><span class="token prefix unchanged">·</span><span class="token line">);<br /></span><span class="token prefix unchanged">·</span><span class="token line">let mut prop = setup.with(state);</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -228,7 +228,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">fn ruggiero_weight() {<br /></span><span class="token prefix unchanged">·</span><span class="token line">use crate::celestia::Cosm;<br /></span><span class="token prefix unchanged">·</span><span class="token line">use crate::time::Epoch;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">let mut cosm = Cosm::de438();<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">let mut cosm = Cosm::de438_raw();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">cosm.frame_mut_gm("EME2000", 398_600.433);<br /></span><span class="token prefix unchanged">·</span><span class="token line">let eme2k = cosm.frame("EME2000");<br /></span><span class="token prefix unchanged">·</span><span class="token line">let start_time = Epoch::from_gregorian_tai_at_midnight(2020, 1, 1);</span></span></code>
                         </div>
                     </section>
                 </div>
