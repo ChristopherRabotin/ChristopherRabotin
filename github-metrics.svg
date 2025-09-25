@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1762" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1442" class="large">
     <defs>
         <style/>
     </defs>
@@ -23,26 +23,26 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 125 users
+                            Followed by 126 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -620,7 +620,8 @@
                                 <g transform="translate(570, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -644,7 +645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nasa/HDTN</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-rate Delay Tolerant Network (HDTN) Software</div>
@@ -697,7 +698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>u1roh/kd-tree</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 25 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">k-dimensional tree</div>
@@ -777,14 +778,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        320
+                                        321
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        582
+                                        583
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -864,16 +865,15 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#337 Add `SITE` data type in Almanac</span>
+                                        Deleted
+                      branch
+                                        <span class="code">add-architecture-doc</span>
+                                        in
+                                        <span class="repo">nyx-space/anise</span>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">nyx-space/anise</span></div>
                                 </div>
                             </section>
                         </div>
@@ -884,151 +884,30 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 64 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">nyx-space/anise</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#636fcb2</div>
-                                        <div class="message">feat: export SPK summary data type to Python</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#798f7f5</div>
-                                        <div class="message">Update egui dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c17b9c</div>
-                                        <div class="message">Update egui_logger requirement from 0.7.0 to 0.8.0
+                                        <div class="sha">#9c970a7</div>
+                                        <div class="message">Merge pull request #518 from nyx-space/add-architecture-doc
 
-Updates the requirements on [egui_logger](https://github.com/RegenJacob/egui_logger) to permit the latest version.
-- [Release notes](https://github.com/RegenJacob/egui_logger/releases)
-- [Commits](https://github.com/RegenJacob/egui_logger/commits)
+docs: Add detailed documentation to complex code sections</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#483aa98</div>
+                                        <div class="message">docs: Add detailed documentation to complex code sections
 
----
-updated-dependencies:
-- dependency-name: egui_logger
-  dependency-version: 0.8.0
-  dependency-type: direct:production
-...
+This change adds detailed documentation to some of the more complex parts of the ANISE codebase.
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24d6909</div>
-                                        <div class="message">Update iai-callgrind requirement from 0.15 to 0.16
+- **`Almanac::translate` and `Almanac::rotate`:** Added docstrings and inline comments to explain the frame tree traversal logic, aberration corrections, and DCM composition.
+- **`DataSet` encoding/decoding:** Added comments to the `Encode` and `Decode` implementations to clarify the custom binary format.
+- **DAF parsing:** Added documentation to the DAF parsing logic to explain how the file is read and interpreted.
 
-Updates the requirements on [iai-callgrind](https://github.com/iai-callgrind/iai-callgrind) to permit the latest version.
-- [Release notes](https://github.com/iai-callgrind/iai-callgrind/releases)
-- [Changelog](https://github.com/iai-callgrind/iai-callgrind/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/iai-callgrind/iai-callgrind/compare/v0.15.0...v0.16.0)
-
----
-updated-dependencies:
-- dependency-name: iai-callgrind
-  dependency-version: 0.16.0
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+This documentation will make it easier for future developers to understand and maintain these critical parts of the library.</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#fef23af</div>
-                                        <div class="message">Update source before installing valgrind</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54bd29e</div>
-                                        <div class="message">ci: add macos-15 to github workflow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dba61ad</div>
-                                        <div class="message">Apply suggestions from code review
-
-Co-authored-by: gemini-code-assist[bot] &lt;176961590+gemini-code-assist[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f610fd2</div>
-                                        <div class="message">Fix de440s.bsp doc typo
-
-I believe the docs for de440s incorrectly said the range was 1900 to 20250. I believe it was meant to say 1900 to 2050.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9186293</div>
-                                        <div class="message">Cleanup README how-to</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d76503</div>
-                                        <div class="message">Apply Gemini suggestions from code review
-
-Co-authored-by: gemini-code-assist[bot] &lt;176961590+gemini-code-assist[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#667d5c0</div>
-                                        <div class="message">I've updated the README with information about TRL 9 and new "How-To" guides.
-
-This update includes details about ANISE's use in the Firefly Blue Ghost lunar lander mission, where it achieved NASA TRL 9.
-
-I also added a new "How-To" section with examples for common operations such as calculating AER, determining solar eclipsing, transforming frames, and rotating between orientations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8f02ab</div>
-                                        <div class="message">Apply Gemini suggestions from code review
-
-Co-authored-by: gemini-code-assist[bot] &lt;176961590+gemini-code-assist[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3473552</div>
-                                        <div class="message">I've updated the README with some improvements, including mentioning ANISE's use in the Firefly Blue Ghost lunar lander mission and its TRL 9 status. I also proofread and edited the README to improve its appeal to engineers and added a mention of the C++ bindings being in progress.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9f95f2</div>
-                                        <div class="message">Move logo above survey link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08c5a70</div>
-                                        <div class="message">Add Logo, thanks Gemini</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72eafa1</div>
-                                        <div class="message">WIP Analysis runtime definition</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcd431f</div>
-                                        <div class="message">Work on dhall analysis example
-
-Note that this won't work with serde-dhall until
-I implement the recurrsive types in the crate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd0d375</div>
-                                        <div class="message">StructVariant serialization works with type annotation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b70cb42</div>
-                                        <div class="message">Trying custom dhall, serialization might not be right</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0cfc864</div>
-                                        <div class="message">Initial work on POC for analysis</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#466 Reporting and analysis tool</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">nyx-space/anise</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1040,12 +919,12 @@ I implement the recurrsive types in the crate</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#515 Analysis module to generate reports + Location Almanac datatype and its elevation mask</span>
+                                        <span class="issue">#518 docs: Add detailed documentation to complex code sections</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">nyx-space/anise</span></div>
-                                    <div>41 files changed <span class="code">++2187 --67</span></div>
+                                    <div>5 files changed <span class="code">++244 --26</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1053,18 +932,31 @@ I implement the recurrsive types in the crate</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">nyx-space/anise</span>
+                                        Opened
+                                        <span class="issue">#518 docs: Add detailed documentation to complex code sections</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/analysis-tool-466</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f57b9b0</div>
-                                        <div class="message">Impl Gemini review</div>
+                                    <div> in <span class="repo">nyx-space/anise</span></div>
+                                    <div>5 files changed <span class="code">++244 --26</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">add-architecture-doc</span>
+                                        in
+                                        <span class="repo">nyx-space/anise</span>
                                     </div>
                                 </div>
                             </section>
@@ -1112,7 +1004,7 @@ I implement the recurrsive types in the crate</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 21 Sept 2025, 14:39:00
+                            On 21 Sept 2025, 21:30:38
                         </div>
                     </section>
                 </div>
@@ -1122,14 +1014,14 @@ I implement the recurrsive types in the crate</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Add VectorExpr Negate; add Plane projections; test projection of a vector onto the plane of another frame
+                            Impl Gemini review
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">cad320a1</span>
-                            <span class="code">anise/Cargo.toml</span>
+                            <span class="code">f57b9b0d</span>
+                            <span class="code">anise/src/almanac/python.rs</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -1140,7 +1032,7 @@ I implement the recurrsive types in the crate</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -55,7 +55,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">pretty_env_logger = { workspace = true }<br /></span><span class="token prefix unchanged">·</span><span class="token line">rstest = { workspace = true }<br /></span><span class="token prefix unchanged">·</span><span class="token line">approx = "0.5.1"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">polars = { version = "0.50.0", features = ["lazy", "parquet"] }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">polars = { version = "0.51.0", features = ["lazy", "parquet"] }<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">rayon = "1.7"<br /></span><span class="token prefix unchanged">·</span><span class="token line">serde_yml = "0.0.12"<br /></span><span class="token prefix unchanged">·</span><span class="token line">rand_pcg = "0.9.0"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -788,7 +788,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/// Location terrain masks are always applied, i.e. if the terrain masks the object, all data is set to f64::NAN, unless specified otherwise in the Location.<br /></span><span class="token prefix unchanged">·</span><span class="token line">///<br /></span><span class="token prefix unchanged">·</span><span class="token line">/// :type rx: Orbit<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/// :type location_name: String<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/// :type location_name: Location<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/// :type obstructing_body: Frame, optional<br /></span><span class="token prefix unchanged">·</span><span class="token line">/// :type ab_corr: Aberration, optional<br /></span><span class="token prefix unchanged">·</span><span class="token line">/// :rtype: AzElRange</span></span></code>
                         </div>
                     </section>
                 </div>
